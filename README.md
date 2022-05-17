@@ -1,1 +1,10 @@
 # Awt_miniproject
+![Screenshot (1)](https://user-images.githubusercontent.com/103573112/168756211-dcd870b9-ab5c-470f-8a38-36b57c17d218.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/103573112/168756237-132a2471-9b67-4b48-84fa-e3841368587c.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/103573112/168756251-39d4d0fa-0d58-4451-b173-d84eca81c087.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/103573112/168756260-2d9f3349-f4a7-4209-8c0b-93e436ec6fb6.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/103573112/168756269-afa6eb7a-b3d1-455c-9576-3931a876d79c.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/103573112/168756299-7bbf1e8d-7264-44b9-90dd-bab33b5242fd.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/103573112/168756320-3ab30344-1693-4128-8d86-b53ff096fe01.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/103573112/168756335-059af890-6da4-4693-940f-f5dacb7f9f78.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/103573112/168756349-ffe566b5-3262-4da0-8479-5eb6e8e6541e.png)
